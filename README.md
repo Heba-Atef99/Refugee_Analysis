@@ -25,7 +25,20 @@ Asylum-seekers are people who have fled their homes and claim international prot
 The dataset is obtained from UNHCR, the UN Refugee Agency, which is a global organization dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
 
 You can find and customize the dataset <a href="https://www.unhcr.org/refugee-statistics/download/?url=Gwv5XZ">here</a>.
-  
-## Dashboard
 
-## Donation
+As for the incidents part, you can find the dataset <a href="https://data.humdata.org/dataset/sind-protection-in-danger-monthly-news-briefs-dataset">here</a>
+
+## Dashboard
+Our dashboard consists of two taps, analysis and donation.
+### Analysis
+In the analysis, it's possible to:
+- Filter by a certain year
+- View the trend of refugees, IDPs, and asylum-seekers over the years
+- View the top countries with IDPs
+- View the numbers of refugees, IDPs, and asylum-seekers in each country ordered by the number of refugees
+- Filter and view where the refugees of a certain country go
+- View the countries of asylum with refugees  
+- View the top countries with asylum-seekers
+- Filter and view the incidents affecting the protection of IDPs and Refugees in 2022
+
+### Donation
