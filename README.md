@@ -43,11 +43,14 @@ In the analysis, it's possible to:
 
 
 ### Donations
+<img alt="unicef logo" src="https://th.bing.com/th/id/OIP.byDeKXkU-ruBpsbNCQXxpgHaEK?pid=ImgDet&amp;rs=1" width="100" style="margin-bottom: 5px;">
 UNICEF works for the rights of every child, every day, across the globe.
 UNICEF was established in the aftermath of World War II to help children whose
 lives and futures were at risk – no matter what country they were from.
 
 <a href="https://help.unicef.org/?country=EG&amp;gclsrc=aw.ds&amp;msclkid=3cd8317e04441b2395735557bfd8d36a&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=DLV_EG_Search_Brand_Generic_EN&amp;utm_term=unicef&amp;utm_content=Brand_Exact" style="font-size: larger; font-weight: bold;">Donate HERE </a>
+
+<img alt="unhcr logo" src="https://th.bing.com/th/id/R.f47476cd2c53ddafff9f56b738fd6b93?rik=otNP6cPlRdJ%2bRA&amp;pid=ImgRaw&amp;r=0" width="68" style="margin-bottom: 5px;">
 
 UNHCR, the UN Refugee Agency, is a global organization dedicated to saving lives, 
 protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
