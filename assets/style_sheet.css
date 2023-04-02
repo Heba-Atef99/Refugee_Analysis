@@ -1,0 +1,173 @@
+/* ******************** FONTS ******************** */
+@font-face {
+   font-family: warFont;
+   src: url(ProgressPersonalUse-EaJdz.ttf);
+}
+
+img#title_icon{
+   width: 13%;
+   vertical-align: middle;
+}
+
+/* ******************** Headings & Labels ******************** */
+span#title{
+   font-family: warFont;
+   font-size: 60px;
+   text-align: center
+   /* color: #C10000 */
+}
+
+span#title{
+   margin-left: 12px;
+}
+
+#react-select-2--value div.Select-value{
+   color: gray;
+}
+
+h5{
+   text-align: center;
+   margin-top: 25px;
+   padding-bottom: 7px;
+}
+
+H6{
+   text-align: center;
+}
+
+
+.nav-link, .nav-link:hover{
+   color: #891606;
+   font-weight: 500;
+}
+   
+/* ******************** CARD ******************** */
+.card{
+   --bs-card-border-width: 2px;
+   --bs-card-border-color: white;
+   --bs-card-border-radius: 8px;
+}
+
+.card-body{
+   border-radius: 6px;
+}
+
+body, .card-body{
+   background-color: gainsboro;
+}
+
+/* ******************** BANS ******************** */
+.ban_desc{
+   background-color: white;
+   border-radius: 12px;
+   padding: 11px;
+   margin-right: 10px;
+   width: 18.55%;
+   text-align: center;
+   margin-bottom: 17px;
+   box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+.ban_row{
+   justify-content: center;
+   margin: auto;
+   width: 100%
+}
+
+.ban_head{
+   font-weight: 800;
+   font-size: xx-large;
+}
+
+.ban_body{
+   font-weight: 500;
+   font-size: large;
+}
+
+/* ******************** PLOTS ******************** */
+.js-plotly-plot{
+   box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+   /* margin-bottom: 15px; */
+}
+
+
+/* ******************** TABLE ******************** */
+table.cell-table{
+   table-layout: fixed;
+   font-family: inherit
+}
+
+/* ******************** SLIDER ******************** */
+.rc-slider-rail {
+	background-color: #D3D3D3;
+}
+
+.rc-slider-track {
+	transition: all 0.3s ease-in-out;
+	background-color: darkgray;
+	visibility: visible !important;
+}
+
+.rc-slider-dot {
+	border: #D3D3D3 3px solid ;
+	color: white;
+	width: 10px;
+	height: 10px;
+}
+
+.rc-slider-dot-active {
+	width: 10px;
+	height: 10px;
+	background-color: darkgray;
+	border-color: darkgray;
+}
+.rc-slider-mark {
+	font-size: 1rem;
+	color: darkgray;
+	font-weight: 1000;
+}
+.rc-slider-mark-text-active {
+		color: darkgray;
+		font-weight: 800;
+	}
+
+.rc-slider-handle {
+	border: darkgray 3px solid ;
+	color: darkgray;
+}
+.rc-slider-handle:hover {
+  border-color: darkgray;
+}
+
+#slider_row{
+   background-color: white;
+   border-radius: 10px;
+   margin-bottom: 20px;
+   padding-bottom: 15px;
+   padding-top: 10px;
+}
+
+/* ******************** DESCRIPTIONS ******************** */
+.desc{
+   /* background-color: whitesmoke; */
+   background-color: #d3d3d366;
+   border-radius: 12px;
+   padding: 11px;
+   margin-right: 22px;
+   width: 31.55%;
+   margin-top: 8px;
+   box-shadow: 0 0.1rem 0.6rem rgba(0,0,0,.15)!important;
+}
+
+#description_row{
+   margin: 15px 30px;
+   padding: 15px 20px;
+   border: 2px solid white;
+   border-radius: 8px;
+   justify-content: center;
+   background-color: white;
+}
+
+#asylm_plot{
+   padding-top: 35px;
+}
