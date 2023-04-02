@@ -1,12 +1,17 @@
 # Refugees Analysis
+<div align="center">
+    <img src="https://github.com/Heba-Atef99/Refugee_Analysis/blob/main/assets/people.png">  
+</div>  
+
+<h3 align="center">
 The pain of war can't exceed the woe of aftermath.
+</h3>
 
 In this visualization project, we wanted to address the problem of refugees.
 
 Every single day, families around the world are being forced from their homes. 
 In search of safety and a better life, they are risking everything to escape conflict, 
 disaster, poverty, or hunger, often leaving with nothing but the clothes they are wearing.
-
 
 ## Different Types
 
@@ -20,6 +25,13 @@ IDPs have been forced to flee their homes for the same reasons as refugees but h
 
 ### Asylum-seekers
 Asylum-seekers are people who have fled their homes and claim international protection, but whose status has not yet been definitively determined. Every refugee begins as an asylum-seeker, but not every asylum-seeker will be granted refugee status.
+
+# Dependencies
+    Python 3.8.10
+    Pandas
+    NumPy
+    Dash
+    Plotly
 
 ## Dataset
 The dataset is obtained from UNHCR, the UN Refugee Agency, which is a global organization dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
@@ -41,6 +53,9 @@ In the analysis, it's possible to:
 - View the top countries with asylum-seekers
 - Filter and view the incidents affecting the protection of IDPs and Refugees in 2022
 
+<div align="center">
+    <img src="https://github.com/Heba-Atef99/Refugee_Analysis/blob/main/assets/analysis.png">  
+</div>  
 
 ### Donations
 <img alt="unicef logo" src="https://th.bing.com/th/id/OIP.byDeKXkU-ruBpsbNCQXxpgHaEK?pid=ImgDet&amp;rs=1" width="100" style="margin-bottom: 5px;">
@@ -56,3 +71,8 @@ UNHCR, the UN Refugee Agency, is a global organization dedicated to saving lives
 protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
 
 <a href="https://help.unicef.org/?country=EG&amp;gclsrc=aw.ds&amp;msclkid=3cd8317e04441b2395735557bfd8d36a&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=DLV_EG_Search_Brand_Generic_EN&amp;utm_term=unicef&amp;utm_content=Brand_Exact" style="font-size: larger; font-weight: bold;">Donate HERE </a>
+
+<div align="center">
+    <img src="https://github.com/Heba-Atef99/Refugee_Analysis/blob/main/assets/donation.png">  
+</div>  
+
