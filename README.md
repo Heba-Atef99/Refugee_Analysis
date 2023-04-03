@@ -33,12 +33,14 @@ Asylum-seekers are people who have fled their homes and claim international prot
     Dash
     Plotly
 
-## Dataset
+## Datasets
 The dataset is obtained from UNHCR, the UN Refugee Agency, which is a global organization dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
 
 You can find and customize the dataset <a href="https://www.unhcr.org/refugee-statistics/download/?url=Gwv5XZ">here</a>.
 
 As for the incidents part, you can find the dataset <a href="https://data.humdata.org/dataset/sind-protection-in-danger-monthly-news-briefs-dataset">here</a>
+
+Finally, you can find the dataset about the Countries with their (ISO 3166-1) Alpha-2 code, Alpha-3 code, UN M49, average latitude and longitude coordinates <a href="https://gist.github.com/tadast/8827699">here</a>
 
 ## Dashboard
 Our dashboard consists of two taps, analysis and donation.
